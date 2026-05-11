@@ -1,15 +1,13 @@
 <!-- Header -->
 <div align="center">
-
-```
+<pre>
  ██████╗  ██████╗  ██████╗  ██████╗
  ██╔════╝ ██╔═══██╗██╔════╝ ██╔═══██╗
  ███████╗ ██║   ██║██║  ███╗██║   ██║
  ██╔══██  ██║   ██║██║   ██║██║   ██║
  ███████╗ ╚██████╔╝╚██████╔╝╚██████╔╝
  ╚══════╝  ╚═════╝  ╚═════╝  ╚═════╝
-```
-
+</pre>
 ### AI-Driven Developer
 
 **Building at the intersection of marketing technology, data science, and AI.**  
@@ -38,6 +36,7 @@ I build data-driven systems that sit at the edge of **marketing automation**, **
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-555?logo=claude)
 
 **Cloud & Infrastructure**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
