@@ -8,7 +8,7 @@
  ███████╗ ╚██████╔╝╚██████╔╝╚██████╔╝
  ╚══════╝  ╚═════╝  ╚═════╝  ╚═════╝
 </pre>
-### AI-Driven Developer
+## AI-Driven Developer
 
 **Building at the intersection of marketing technology, data science, and AI.**  
 *Turning raw data into decisions. Turning decisions into systems.*
@@ -52,8 +52,6 @@ I build data-driven systems that sit at the edge of **marketing automation**, **
 ## 🚀 What I'm Building
 
 Most of my active projects live under **[Yakoub-ai](https://github.com/Yakoub-ai)** — my personal AI/dev org.
-
-> A home for agents, AI-powered apps, and tools I wish existed.
 
 </div>
 
