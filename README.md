@@ -8,7 +8,7 @@
  ███████╗ ╚██████╔╝╚██████╔╝╚██████╔╝
  ╚══════╝  ╚═════╝  ╚═════╝  ╚═════╝
 </pre>
-## AI-Driven Developer
+AI-Driven Developer
 
 **Building at the intersection of marketing technology, data science, and AI.**  
 *Turning raw data into decisions. Turning decisions into systems.*
