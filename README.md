@@ -14,21 +14,19 @@ AI-Driven Developer
 *Turning raw data into decisions. Turning decisions into systems.*
 
 [![](https://img.shields.io/badge/Yakoub--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yakoub-ai)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
 </div>
 
 ---
 I build data-driven systems that sit at the edge of **marketing automation**, **machine learning**, and **AI tooling** — professionally and as a builder.
 
-- 🧠 **Tech Lead & MarTech Engineer** — architecting AI/ML platforms and marketing automation systems in production
-- 📊 **Data-first mindset** — from raw signals to predictive models, I care about what the numbers are actually saying
-- 🤖 **AI tooling builder** — autonomous agents, LLM pipelines, developer productivity tools
-- 🛠 **Full-stack when needed** — React, Python, Azure, WordPress — whatever it takes to ship
+- **Tech Lead & MarTech Engineer** — architecting AI/ML platforms and marketing automation systems in production
+- **Data-first mindset** — from raw signals to predictive models, I care about what the numbers are actually saying
+- **AI tooling builder** — autonomous agents, LLM pipelines, developer productivity tools
+- **Full-stack when needed** — React, Python, Azure, WordPress — whatever it takes to ship
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Data & AI**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,7 +47,7 @@ I build data-driven systems that sit at the edge of **marketing automation**, **
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 Most of my active projects live under **[Yakoub-ai](https://github.com/Yakoub-ai)** — my personal AI/dev org.
 
